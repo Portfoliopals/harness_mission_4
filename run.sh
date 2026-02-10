@@ -1,2 +1,3 @@
-echo "hello from run.sh"
+echo "Hello from run.sh"
 echo "This is being run from a Harness pipeline"
+echo "This mimics a code change happening"
